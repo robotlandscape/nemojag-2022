@@ -1,6 +1,3 @@
 # NemoJag 2022
-### Goals:
-1. Control the ballast system and thrusters remotely
-2. See & maybe capture data from sensors
-    * Including camera stream in real-time
-3. Hold position, waypoints, etc?
+
+This is the source code of NemoJag, a DIY submarine hand-crafted by a group of students from Windham High School. 
