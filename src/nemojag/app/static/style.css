@@ -1,0 +1,17 @@
+body {
+    background-color: papayawhip;
+}
+
+nav {
+    background-color: navy;
+    height: 10%;
+    width: 100%;
+    position: fixed;
+}
+
+.content {
+    border-radius: 3px;
+    border-color: crimson;
+    border-width: 4px;
+    background-color: blanchedalmond;
+}

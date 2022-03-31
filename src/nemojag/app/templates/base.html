@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<title>{% block title %}{% endblock %} - NemoJag</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+<nav>
+  <h1>NemoJag!</h1>
+</nav>
+<section class="content">
+  <header>
+    {% block header %}{% endblock %}
+  </header>
+  {% block content %}{% endblock %}
+</section>
