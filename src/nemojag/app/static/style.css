@@ -1,12 +1,14 @@
 body {
     background-color: papayawhip;
+    color: navy;
 }
 
 nav {
-    background-color: navy;
+    background-color: blanchedalmond;
     height: 10%;
     width: 100%;
     position: fixed;
+    margin: 0;
 }
 
 .content {
